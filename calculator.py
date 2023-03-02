@@ -16,7 +16,7 @@ def calculator(operation, my_list):
             else:
                 sum -= item
         return sum
-    #eponential
+    #exponential
     elif operation == "exp":
         sum = []
         for item in my_list:
